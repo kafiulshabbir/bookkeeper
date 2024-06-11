@@ -26,6 +26,7 @@ School project. Personal accounting application, helps to keep record of expense
         - expense.py
     - view/ : contains the graphical user interface
 - docs/ : contains documentation 
+    - tutorial/ : sqlite3 etc.
 
 ## Plan
 ### Stage of development:
@@ -36,7 +37,15 @@ School project. Personal accounting application, helps to keep record of expense
 5. Integrate GUI and cmd
 
 
+##Tutorials and instructions to self:
+### sqlite basics
+```commandline
 
+```
+
+```commandline
+
+```
 ## Reference Information:
 The [original / template](https://github.com/LXDMIPT/bookkeeper) of the project.
 [SQLite](https://sqlite.org/) Homepage
